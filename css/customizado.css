@@ -1,0 +1,14 @@
+.padding-0{
+	padding: 0px; 
+}
+.mensagem-erro{
+	background-color: #C00303;
+	color: white;
+}
+.mensagem-sucesso{
+	background-color: #17B003;
+	color: white;
+}
+.border-radius{
+	border-radius: 100px;
+}
